@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ketankumar Borse
 - 👀 I’m interested in Cooking Web Apps.
-- 🌱 I’m currently learning Web Application Development & DSA in JAVA. 
+- 🌱 I’m currently learning Web Application Development & DSA. 
 - 💞️ I’m looking to collaborate on Real-Time Projects. 
 - 📫 How to reach me ketankumarpborse2020@gmail.com or @Ketank205
 - 😄 Pronouns: -
